@@ -334,7 +334,7 @@ body {
     font-size: 0.8rem;
   }
   .header-left h2 {
-    font-size: 1rem;
+    font-size: 2rem;
     margin-bottom: 0.5rem;
   }
   .header-right ul {
@@ -349,7 +349,7 @@ body {
   }
 
   .section-title h1 {
-    font-size: 1rem;
+    font-size: 2rem;
     /* margin-bottom: 0; */
   }
   .section-title p {
@@ -373,7 +373,7 @@ body {
     padding: 0 0 0 1rem;
   }
   .features-text h1 {
-    font-size: 1rem;
+    font-size: 2rem;
   }
   p {
     font-size: 0.8rem;
@@ -403,7 +403,7 @@ body {
     left: 11.05rem;
   }
   .experience h1 {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     font-weight: 600;
   }
   .experience p {
@@ -416,7 +416,7 @@ body {
     padding: 1rem;
   }
   .fact-title h2 {
-    font-size: 1rem;
+    font-size: 2rem;
     font-weight: 600;
     margin-bottom: 0.6rem;
   }
