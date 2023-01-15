@@ -262,10 +262,6 @@ body {
   margin: 8.1rem auto;
 }
 
-.hide {
-  display: none;
-}
-
 /* Responsive CSS */
 @media screen and (max-width: 391px) {
   .main-header {
@@ -401,4 +397,12 @@ body {
     margin: 3rem auto;
     text-align: center;
   }
+}
+.header-right ul {
+  visibility: hidden;
+  opacity: 0;
+}
+.ham-icon :hover .header-right ul {
+  visibility: visible;
+  opacity: 1;
 }
